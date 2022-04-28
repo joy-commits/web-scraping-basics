@@ -5,6 +5,12 @@ Python🐍 is a great web scraper, as it is easy to use, has an easy-to-understa
 In this project, I scraped data for phones available on Amazon and I analyzed customers’ reviews.
 
 
+DATA SOURCE <br>
+Amazon
+
+
+
+
 To extract data using web scraping with python, you need to follow these basic steps:
 Find the URL that you want to scrape
 Inspecting the Page
