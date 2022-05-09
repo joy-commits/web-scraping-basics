@@ -12,13 +12,13 @@ Amazon
 
 
 To extract data using web scraping with python, you need to follow these basic steps:
-Find the URL that you want to scrape
-Inspecting the Page
-Find the data you want to extract
-Write the code
-Run the code and extract the data
+1. Find the URL that you want to scrape
+2. Inspecting the Page
+3. Find the data you want to extract
+4. Write the code
+5. Run the code and extract the data
 
 
-TOOLS USED
+TOOLS USED <br>
 BeautifulSoup
 Jupyter 
